@@ -10,7 +10,7 @@
 ##
 ### Reach Me
 <p>
-    <a href="mailto:flaviogermanotrab@gmail.com" target="_blank">
+    <a href="mailto:flavio.nanni@mercadolivre.com" target="_blank">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:contatoflaviogermano@gmail.com">
     </a>
     &nbsp;&nbsp;&nbsp;
